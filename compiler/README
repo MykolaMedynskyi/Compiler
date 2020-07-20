@@ -1,0 +1,4 @@
+Mykola Medynskyi 237578
+
+make
+./compiler <nazwa pliku wejściowego> <nazwa pliku wyjściowego>
